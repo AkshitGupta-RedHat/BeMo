@@ -73,7 +73,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="{{asset('css/main.css')}}">
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -205,9 +205,9 @@
                 </button>
                 <div class="navbar-collapse collapse" id="target_name">
                     <ul class="navbar-nav hide-on-med-and-down nav-btn ml-auto" style="align-items: center;">
-                        <li id="current" class="active"><a class="nav-item black-text active" href="index.html"
+                        <li id="current" class="active"><a class="nav-item black-text active" href="home"
                                 rel="self" id="current">Main</a></li>
-                        <li><a class="nav-item black-text" href="contact-us.php" rel="self">Contact Us</a></li>
+                        <li><a class="nav-item black-text" href="contact" rel="self">Contact Us</a></li>
                     </ul>
                 </div>
             </nav>
@@ -379,7 +379,7 @@
 
     <a href="#" class="goToTop"
         style="color:black;scroll-behavior: smooth  ; position: fixed; font-size: 1.6rem;bottom: 14%;right:1%;height: 50px; width: 50px;"><img
-            src="../img/up1.png"></i> </a>
+            src="{{asset('img/up1.png')}}"></i> </a>
 
 
 

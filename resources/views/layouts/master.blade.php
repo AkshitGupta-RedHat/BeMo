@@ -1,37 +1,19 @@
 <html lang="en">
-<!--<![endif]-->
+
 
 <head>
-    <meta name="google-site-verification" content="XHAz5PWm2RHaIVuVJQ-gwi54Wn5O-LVlXL7QCExSSzA">
     <meta name="online" content="true">
     <meta name="viewport" content="initial-scale=1 maximum-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="description"
         content="FREE Ultimate Guide to CDA Interviews: Tips &amp; Proven Strategies to Help You Prepare &amp; Ace Your CDA Structured Interview. ">
-
+    <meta name="robots" content="noindex" />
+    <meta name="title" content="CDA interview Tips">
     <title>FREE Ultimate Guide to CDA Interviews: Tips &amp; Proven Strategies to Help You Prepare &amp; Ace Your CDA
         Structured Interview. </title>
     <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/styles.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/colourtag-page0.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/flexslider.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/contentcenter.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/ec9on.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/rimage.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/ssoff.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/sslide.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/sidenone.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/olight90.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/fontarial.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/title26.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/fontarialspan.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/bts46.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/bt60.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/fontarialnav.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/nav17.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/fontarialside.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/fontarialheader.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/fontarialcontent.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="rw_common/themes/Endeavor/css/font13.css">
+
+
 
     <style type="text/css" media="all">
         #feature {
@@ -86,111 +68,49 @@
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
         integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    <link rel="stylesheet" href="main.css">
-    <!-- Start Google Analytics -->
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    <link rel="stylesheet" href="{{asset('css/main.css')}}">
 
-        ga('create', 'UA-56991678-1', 'auto');
-        ga('send', 'pageview');
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168646503-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-168646503-1');
     </script>
-    <script type="text/javascript">
-        adroll_adv_id = "3ALUZKCJMFDS7KLVY2OWE2";
-        adroll_pix_id = "YSN7W5KEY5FFBLKG45XIAS";
-        (function () {
-            var oldonload = window.onload;
-            window.onload = function () {
-                __adroll_loaded = true;
-                var scr = document.createElement("script");
-                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-                scr.setAttribute('async', 'true');
-                scr.type = "text/javascript";
-                scr.src = host + "/j/roundtrip.js";
-                ((document.getElementsByTagName('head') || [null])[0] ||
-                    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                if (oldonload) {
-                    oldonload()
-                }
+    <!-- End og Google analytics -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
             };
-        }());
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '598082027496972');
+        fbq('track', 'PageView');
     </script>
+    <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=598082027496972&ev=PageView&noscript=1" /></noscript>
+    <!-- End Facebook Pixel Code -->
 
-    <script>
-        (function () {
-            var _fbq = window._fbq || (window._fbq = []);
-            if (!_fbq.loaded) {
-                var fbds = document.createElement('script');
-                fbds.async = true;
-                fbds.src = '//connect.facebook.net/en_US/fbds.js';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(fbds, s);
-                _fbq.loaded = true;
-            }
-            _fbq.push(['addPixelId', '235586069975455']);
-        })();
-        window._fbq = window._fbq || [];
-        window._fbq.push(['track', 'PixelInitialized', {}]);
-    </script>
-    <noscript><img height="1" width="1" alt="" style="display:none"
-            src="https://www.facebook.com/tr?id=235586069975455&amp;ev=NoScript" /></noscript>
-    <!-- End Google Analytics -->
-    <script
-        src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/984918679/?random=1591304249770&amp;cv=9&amp;fst=1591304249770&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=5&amp;u_tz=-240&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=http%3A%2F%2Fcdainterview.com%2Findex.html&amp;ref=http%3A%2F%2Fcdainterview.com%2Findex.html&amp;tiba=FREE%20Ultimate%20Guide%20to%20CDA%20Interviews%3A%20Tips%20%26%20Proven%20Strategies%20to%20Help%20You%20Prepare%20%26%20Ace%20Your%20CDA%20Structured%20Interview.&amp;hn=www.googleadservices.com&amp;rfmt=3&amp;fmt=4"></script>
-    <style id="fit-vids-style">
-        .fluid-width-video-wrapper {
-            width: 100%;
-            position: relative;
-            padding: 0;
-        }
-
-        .fluid-width-video-wrapper iframe,
-        .fluid-width-video-wrapper object,
-        .fluid-width-video-wrapper embed {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-        }
-    </style>
-    <script async="true" type="text/javascript" src="http://a.adroll.com/j/roundtrip.js"></script>
-    <script id="adroll_scr_exp" onerror="window.adroll_exp_list = [];" type="text/javascript"
-        src="https://s.adroll.com/j/exp/3ALUZKCJMFDS7KLVY2OWE2/index.js"></script>
-    <script type="text/javascript"
-        src="https://s.adroll.com/j/pre/3ALUZKCJMFDS7KLVY2OWE2/YSN7W5KEY5FFBLKG45XIAS/index.js"></script>
-    <script type="text/javascript"
-        src="https://d.adroll.mgr.consensu.org/consent/iabcheck/3ALUZKCJMFDS7KLVY2OWE2?_s=fa0ba4a35da2516311403b34aed87828&amp;_b=2"></script>
-    <script async="true" type="text/javascript"
-        src="https://d.adroll.com/pixel/3ALUZKCJMFDS7KLVY2OWE2/YSN7W5KEY5FFBLKG45XIAS?adroll_fpc=7b158dfd5bf58d7c3e7b287ca45c3d3f-1591282038064&amp;arrfrr=http%3A%2F%2Fcdainterview.com%2Findex.html&amp;xid_ch=f&amp;pv=23594317688.03404&amp;cookie=LFSHVB3DBZA53BBAJRKPC3%3A1%7C3ALUZKCJMFDS7KLVY2OWE2%3A9%7CYSN7W5KEY5FFBLKG45XIAS%3A9%7CY3YPVAVIL5CWHG4WMKVJAW%3A5%7CGUDMQUN4GZF7JOUI4FJGAQ%3A3&amp;adroll_s_ref=http%3A//cdainterview.com/index.html&amp;keyw="></script>
-    <div style="width: 1px; height: 1px; display: inline; position: absolute;"><img height="1" width="1"
-            style="border-style:none;" alt=""
-            src="https://d.adroll.com/cm/r/out?adroll_fpc=7b158dfd5bf58d7c3e7b287ca45c3d3f-1591282038064&amp;arrfrr=http%3A%2F%2Fcdainterview.com%2Findex.html&amp;xid_ch=f&amp;advertisable=3ALUZKCJMFDS7KLVY2OWE2">
-        <img height="1" width="1" style="border-style:none;" alt=""
-            src="https://d.adroll.com/cm/b/out?adroll_fpc=7b158dfd5bf58d7c3e7b287ca45c3d3f-1591282038064&amp;arrfrr=http%3A%2F%2Fcdainterview.com%2Findex.html&amp;xid_ch=f&amp;advertisable=3ALUZKCJMFDS7KLVY2OWE2">
-        <img height="1" width="1" style="border-style:none;" alt=""
-            src="https://d.adroll.com/cm/x/out?adroll_fpc=7b158dfd5bf58d7c3e7b287ca45c3d3f-1591282038064&amp;arrfrr=http%3A%2F%2Fcdainterview.com%2Findex.html&amp;xid_ch=f&amp;advertisable=3ALUZKCJMFDS7KLVY2OWE2">
-        <img height="1" width="1" style="border-style:none;" alt=""
-            src="https://d.adroll.com/cm/l/out?adroll_fpc=7b158dfd5bf58d7c3e7b287ca45c3d3f-1591282038064&amp;arrfrr=http%3A%2F%2Fcdainterview.com%2Findex.html&amp;xid_ch=f&amp;advertisable=3ALUZKCJMFDS7KLVY2OWE2">
-        <img height="1" width="1" style="border-style:none;" alt=""
-            src="https://d.adroll.com/cm/o/out?adroll_fpc=7b158dfd5bf58d7c3e7b287ca45c3d3f-1591282038064&amp;arrfrr=http%3A%2F%2Fcdainterview.com%2Findex.html&amp;xid_ch=f&amp;advertisable=3ALUZKCJMFDS7KLVY2OWE2">
-        <img height="1" width="1" style="border-style:none;" alt=""
-            src="https://d.adroll.com/cm/g/out?adroll_fpc=7b158dfd5bf58d7c3e7b287ca45c3d3f-1591282038064&amp;arrfrr=http%3A%2F%2Fcdainterview.com%2Findex.html&amp;xid_ch=f&amp;advertisable=3ALUZKCJMFDS7KLVY2OWE2&amp;google_nid=adroll4">
-    </div>
-    <script src="https://connect.facebook.net/signals/config/1557831221103083?v=2.9.18&amp;r=stable" async=""></script>
-
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PLNDGX4');</script>
+    <!-- End Google Tag Manager -->
+ 
     <style>
         .nav-wrapper {
-
             padding-bottom: 8%;
             height: 18%;
             -webkit-box-shadow: -20px -17px 0 0 rgba(255, 248, 248, 0.14), 0 3px 1px -2px rgba(255, 255, 255, 0.12), 0 1px 5px 0 rgba(255, 252, 252, 0.2);
@@ -224,10 +144,6 @@
             background-image: url(http://cdainterview.com/resources/cda-interview-guide.jpg);
         }
 
-        .test {
-            background-image: url(../img/bemo.png);
-            background-size: cover;
-        }
 
         a {
             color: inherit;
@@ -254,7 +170,10 @@
 </head>
 
 <body>
-
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLNDGX4"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
 
 
@@ -265,7 +184,7 @@
 
 
 
-        <a href="#" class="navbar-brand nav-link brand-logo left"> <img src="../img/bemo.png" width="167" height="100"
+        <a href="#" class="navbar-brand nav-link brand-logo left"> <img id="logo" width="167" height="100"
                 alt="Site logo"></a>
 
 
@@ -274,10 +193,10 @@
         </button>
         <div class="navbar-collapse collapse" id="target_name">
             <ul class="navbar-nav hide-on-med-and-down nav-btn ml-auto" style="align-items: center;">
-                <li id="current" class="active"><a class="nav-item black-text active" href="index.html" rel="self"
+                <li id="current" class="active"><a class="nav-item black-text active" href="home" rel="self"
                         id="current">Main</a></li>
 
-                <li><a class="nav-item black-text" href="contact-us.php" rel="self">Contact Us</a></li>
+                <li><a class="nav-item black-text" href="contact" rel="self">Contact Us</a></li>
             </ul>
         </div>
     </nav>
@@ -293,7 +212,9 @@
 
 
             <div id="extraContainer9">
-                <div id="myExtraContent9" style="color: rgb(255, 255, 255);">CDA Interview Guide</div>
+                <div id="myExtraContent9" style="color: rgb(255, 255, 255);">
+
+                </div>
             </div>
         </div>
 
@@ -578,7 +499,7 @@
 
     <a href="#" class="goToTop"
         style="color:black;scroll-behavior: smooth  ; position: fixed; font-size: 1.6rem;bottom: 14%;right:1%;height: 50px; width: 50px;"><img
-            src="../img/up1.png"></i> </a>
+            src="{{asset('img/up1.png')}}"></i> </a>
 
 
 
@@ -617,20 +538,95 @@ Remarketing tags may not be associated with personally identifiable information 
                 )
             }
         });
-$(documents).ready(function(){
 
-    $.getJSON('data.json', function(data) {
-             $('.bghide').attr('src', data.emp.name);
-    })
-});
-        // fetch('./data.json')
-        // .then(function(resp) {
-        //     return resp.json();
-        // })
-        // .then(function(data){
-        //     console.log(data);
-        // })
- 
+
+        var data = {
+            "indexToggler": { "index": true },
+            "logo": { "imgsrc": "../img/bemo.png" },
+            "coverimg": { 'imgsrc': "../img/cda-interview-guide.jpg" },
+            "textOverImg": {
+                "id": "textOverImg",
+                'content': "CDA Interview Guide",
+                "heading": "H1",
+                "bold": "b",
+                "italics": "i",
+                "strikethrough": "",
+                "createLink": "a",
+                "align": "left"
+            }
+        }
+
+
+
+        $('.bghide').attr('src', data.coverimg.imgsrc);
+
+
+
+        $('#logo').attr('src', data.logo.imgsrc);
+        // var h1 = document.createElement("H1");
+        // document.getElementById('myExtraContent9').innerHTML = data.textOverImg.content;
+        // document.getElementById('myExtraContent9').appendChild(h1);
+
+        if (data.textOverImg) {
+            var latestElement = "myExtraContent9";
+            if (data.textOverImg.heading != '') {
+                var head = document.createElement(data.textOverImg.heading);
+                head.id = data.textOverImg.id + "Head";
+
+                document.getElementById('myExtraContent9').appendChild(head);
+                latestElement = head.id;
+            }
+
+            if (data.textOverImg.bold != '') {
+                var bold = document.createElement(data.textOverImg.bold);
+                bold.id = data.textOverImg.id + "Bold";
+
+                document.getElementById(latestElement).appendChild(bold);
+                latestElement = bold.id;
+            }
+
+            if (data.textOverImg.italics != '') {
+                var italics = document.createElement(data.textOverImg.italics);
+                italics.id = data.textOverImg.id + "Italics";
+
+                document.getElementById(latestElement).appendChild(italics);
+                latestElement = italics.id;
+            }
+
+            if (data.textOverImg.strikethrough != '') {
+                var strikethrough = document.createElement(data.textOverImg.strikethrough);
+                strikethrough.id = data.textOverImg.id + "Strike";
+
+                document.getElementById(latestElement).appendChild(strikethrough);
+                latestElement = strikethrough.id;
+            }
+
+            if (data.textOverImg.createLink != '') {
+                var createLink = document.createElement(data.textOverImg.createLink);
+                createLink.id = data.textOverImg.id + "A";
+
+                document.getElementById(latestElement).appendChild(createLink);
+                latestElement = createLink.id;
+            }
+
+            if (data.textOverImg.align != '') {
+                var align = document.createElement(data.textOverImg.align);
+                align.id = data.textOverImg.id + "Align";
+
+                document.getElementById(latestElement).appendChild(align);
+                latestElement = align.id;
+            }
+            document.getElementById(latestElement).innerHTML = data.textOverImg.content;
+        }
+
+
+        if (data.indexToggler.index) {
+            document.querySelector('meta[name="robots"]').setAttribute("content", "index");
+        }
+        else {
+            document.querySelector('meta[name="robots"]').setAttribute("content", "noindex");
+        }
+
     </script>
 </body>
 
